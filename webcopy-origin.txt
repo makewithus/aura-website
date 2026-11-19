@@ -1,0 +1,1292 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6022af993a6b2191db3ed10c\628298b20ae0236682d4b87f_Play-24.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6022af993a6b2191db3ed10c\628299f8aa233b83918e24fd_Pause.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54b962aaef62749975d14c_7643839-uhd_4096_2160_25fps_mp4.mp4
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54b962aaef62749975d14c_7643839-uhd_4096_2160_25fps_mp4.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54b962aaef62749975d14c_7643839-uhd_4096_2160_25fps_poster.0000000.jpg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54b962aaef62749975d14c_7643839-uhd_4096_2160_25fps_poster.0000000.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54b962aaef62749975d14c_7643839-uhd_4096_2160_25fps_webm.webm
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54b962aaef62749975d14c_7643839-uhd_4096_2160_25fps_webm.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcd645bb524ad764f42d_7643311-uhd_4096_2160_25fps_mp4.mp4
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcd645bb524ad764f42d_7643311-uhd_4096_2160_25fps_mp4.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcd645bb524ad764f42d_7643311-uhd_4096_2160_25fps_poster.0000000.jpg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcd645bb524ad764f42d_7643311-uhd_4096_2160_25fps_poster.0000000.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcd645bb524ad764f42d_7643311-uhd_4096_2160_25fps_webm.webm
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcd645bb524ad764f42d_7643311-uhd_4096_2160_25fps_webm.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcd939706069793ead14_7643836-uhd_4096_2160_25fps_mp4.mp4
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcd939706069793ead14_7643836-uhd_4096_2160_25fps_mp4.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcd939706069793ead14_7643836-uhd_4096_2160_25fps_poster.0000000.jpg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcd939706069793ead14_7643836-uhd_4096_2160_25fps_poster.0000000.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcd939706069793ead14_7643836-uhd_4096_2160_25fps_webm.webm
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcd939706069793ead14_7643836-uhd_4096_2160_25fps_webm.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcdd88a4c1f1647ce1da_7643308-uhd_4096_2160_25fps_mp4.mp4
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcdd88a4c1f1647ce1da_7643308-uhd_4096_2160_25fps_mp4.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcdd88a4c1f1647ce1da_7643308-uhd_4096_2160_25fps_poster.0000000.jpg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcdd88a4c1f1647ce1da_7643308-uhd_4096_2160_25fps_poster.0000000.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a54bcdd88a4c1f1647ce1da_7643308-uhd_4096_2160_25fps_webm.webm
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a54bcdd88a4c1f1647ce1da_7643308-uhd_4096_2160_25fps_webm.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a57765f503ac058e8a0c177_10994873-hd_1080_1920_25fps_mp4.mp4
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a57765f503ac058e8a0c177_10994873-hd_1080_1920_25fps_mp4.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a57765f503ac058e8a0c177_10994873-hd_1080_1920_25fps_poster.0000000.jpg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a57765f503ac058e8a0c177_10994873-hd_1080_1920_25fps_poster.0000000.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77%2F6a57765f503ac058e8a0c177_10994873-hd_1080_1920_25fps_webm.webm
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c776a57765f503ac058e8a0c177_10994873-hd_1080_1920_25fps_webm.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5263c6a52b15bf926dd72b_Corelix Logo.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5263c6a52b15bf926dd72b_Corelix Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a53762d347fb3edadb0e975_License Image 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a53762d347fb3edadb0e975_License Image 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a53762d79f2ba30500ee34f_License Image 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a53762d79f2ba30500ee34f_License Image 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a53762d8a5fd1103009be46_License Image 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a53762d8a5fd1103009be46_License Image 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a53762d8a5fd1103009be49_License Image 04.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a53762d8a5fd1103009be49_License Image 04.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a53834d1dd7916d72054b46_404 Image (1).svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a53834d1dd7916d72054b46_404 Image (1).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a549e070df2b0c05aa202b5_Pricing Card BG.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a549e070df2b0c05aa202b5_Pricing Card BG.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a54a1fbe92c95e5de845869_Check Circle.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a54a1fbe92c95e5de845869_Check Circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a54bb004e047567c51f5ee2_Story Logo.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a54bb004e047567c51f5ee2_Story Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a54bb5f375c24865215b965_Story Logo 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a54bb5f375c24865215b965_Story Logo 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a54bb5fb2694f8eeedf9e81_Story Logo 04.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a54bb5fb2694f8eeedf9e81_Story Logo 04.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a54bb5fe84a6dc0433ab7ef_Story Logo 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a54bb5fe84a6dc0433ab7ef_Story Logo 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a54c0700da076af38bf81b6_Plus Icon.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a54c0700da076af38bf81b6_Plus Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5520318512c5f366da713d_Approach Image-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5520318512c5f366da713d_Approach Image-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5520318512c5f366da713d_Approach Image.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5520318512c5f366da713d_Approach Image.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a01a5df704adeca44b_Service Image 03 (1)-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a01a5df704adeca44b_Service Image 03 (1)-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a01a5df704adeca44b_Service Image 03 (1)-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a01a5df704adeca44b_Service Image 03 (1)-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a01a5df704adeca44b_Service Image 03 (1)-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a01a5df704adeca44b_Service Image 03 (1)-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a01a5df704adeca44b_Service Image 03 (1).avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a01a5df704adeca44b_Service Image 03 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a0208bd6317a62a6c1_Service Left Image.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a0208bd6317a62a6c1_Service Left Image.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1019b0c4ab87ed4ec_Service Image 01 (1)-p-1080.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1019b0c4ab87ed4ec_Service Image 01 (1)-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1019b0c4ab87ed4ec_Service Image 01 (1)-p-500.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1019b0c4ab87ed4ec_Service Image 01 (1)-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1019b0c4ab87ed4ec_Service Image 01 (1)-p-800.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1019b0c4ab87ed4ec_Service Image 01 (1)-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1019b0c4ab87ed4ec_Service Image 01 (1).avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1019b0c4ab87ed4ec_Service Image 01 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a19b63b7cf53fa5301_Service Image 04 (1)-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a19b63b7cf53fa5301_Service Image 04 (1)-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a19b63b7cf53fa5301_Service Image 04 (1)-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a19b63b7cf53fa5301_Service Image 04 (1)-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a19b63b7cf53fa5301_Service Image 04 (1)-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a19b63b7cf53fa5301_Service Image 04 (1)-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a19b63b7cf53fa5301_Service Image 04 (1).avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a19b63b7cf53fa5301_Service Image 04 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1c00353ab869e77c3_Service Image 02-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1c00353ab869e77c3_Service Image 02-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1c00353ab869e77c3_Service Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1c00353ab869e77c3_Service Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1c00353ab869e77c3_Service Image 02-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1c00353ab869e77c3_Service Image 02-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5525a1c00353ab869e77c3_Service Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5525a1c00353ab869e77c3_Service Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a552c3c09925281b6390501_Eyes Icon.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a552c3c09925281b6390501_Eyes Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a552c3c4bdee193f9126ab8_Highlight Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a552c3c4bdee193f9126ab8_Highlight Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a552c3c4bdee193f9126ab8_Highlight Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a552c3c4bdee193f9126ab8_Highlight Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a552c3c8f46963cd18be7ee_Highlight Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a552c3c8f46963cd18be7ee_Highlight Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a552c3c8f46963cd18be7ee_Highlight Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a552c3c8f46963cd18be7ee_Highlight Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a55598d389cd724d849893c_Business Image-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a55598d389cd724d849893c_Business Image-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a55598d389cd724d849893c_Business Image.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a55598d389cd724d849893c_Business Image.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a56162b0f960b67fa4493a4_Partner Logo 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a56162b0f960b67fa4493a4_Partner Logo 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a56162b271ab96eadfec8c4_Partner Logo 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a56162b271ab96eadfec8c4_Partner Logo 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a56162bf7949c164aed6870_Partner Logo 04.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a56162bf7949c164aed6870_Partner Logo 04.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a56162bfdbd4bf1f28e7918_Partner Logo 05.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a56162bfdbd4bf1f28e7918_Partner Logo 05.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a56162c2cf4a9e1b5d8f33d_Partner Logo 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a56162c2cf4a9e1b5d8f33d_Partner Logo 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bea3cb3326ec29c83ef_Journey Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bea3cb3326ec29c83ef_Journey Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bea3cb3326ec29c83ef_Journey Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bea3cb3326ec29c83ef_Journey Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561beb183c30bd54966a34_Journey Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561beb183c30bd54966a34_Journey Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561beb183c30bd54966a34_Journey Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561beb183c30bd54966a34_Journey Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561beb5b6590fcfc34a125_Journey Image 03-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561beb5b6590fcfc34a125_Journey Image 03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561beb5b6590fcfc34a125_Journey Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561beb5b6590fcfc34a125_Journey Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bebc5b58232ba7d5fc5_Journey Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bebc5b58232ba7d5fc5_Journey Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bebc5b58232ba7d5fc5_Journey Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bebc5b58232ba7d5fc5_Journey Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bebfb70381e2bbc0ea1_fc99c5543ff09aa3b529519d1d524da7_Journey Image 05-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bebfb70381e2bbc0ea1_fc99c5543ff09aa3b529519d1d524da7_Journey Image 05-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bebfb70381e2bbc0ea1_fc99c5543ff09aa3b529519d1d524da7_Journey Image 05-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bebfb70381e2bbc0ea1_fc99c5543ff09aa3b529519d1d524da7_Journey Image 05-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a561bebfb70381e2bbc0ea1_fc99c5543ff09aa3b529519d1d524da7_Journey Image 05.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a561bebfb70381e2bbc0ea1_fc99c5543ff09aa3b529519d1d524da7_Journey Image 05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5636ea3872e336fe8df925_Found Icon 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5636ea3872e336fe8df925_Found Icon 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5636eab722d31fdfa07dd6_Found Icon 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5636eab722d31fdfa07dd6_Found Icon 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5636f3c5d4871e84c83f70_Found Icon 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5636f3c5d4871e84c83f70_Found Icon 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5671c12c1f26c10657bfe2_Found Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5671c12c1f26c10657bfe2_Found Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5671c14ec7df4a1ab4e316_Found Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5671c14ec7df4a1ab4e316_Found Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5671c14ec7df4a1ab4e316_Found Image 04-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5671c14ec7df4a1ab4e316_Found Image 04-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5671c14ec7df4a1ab4e316_Found Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5671c14ec7df4a1ab4e316_Found Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5671c204d775e4562bb62b_Found Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5671c204d775e4562bb62b_Found Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5671c3b6dd63d7d5803fa1_Found Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5671c3b6dd63d7d5803fa1_Found Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f6d7f627951015731b_Team Image 03-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f6d7f627951015731b_Team Image 03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f6d7f627951015731b_Team Image 03-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f6d7f627951015731b_Team Image 03-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f6d7f627951015731b_Team Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f6d7f627951015731b_Team Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f75f3d17d03240d86e_Team Image 01-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f75f3d17d03240d86e_Team Image 01-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f75f3d17d03240d86e_Team Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f75f3d17d03240d86e_Team Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f75f3d17d03240d86e_Team Image 01-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f75f3d17d03240d86e_Team Image 01-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f75f3d17d03240d86e_Team Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f75f3d17d03240d86e_Team Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f7ee3c9790c92f0526_Team Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f7ee3c9790c92f0526_Team Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f7ee3c9790c92f0526_Team Image 02-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f7ee3c9790c92f0526_Team Image 02-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5682f7ee3c9790c92f0526_Team Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5682f7ee3c9790c92f0526_Team Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a57ae030c24928b3104a5c7_Minuse.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a57ae030c24928b3104a5c7_Minuse.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a57ae0311f2876a110144f6_plus.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a57ae0311f2876a110144f6_plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a57d02b4b90017deb8c6520_Service Card Icon 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a57d02b4b90017deb8c6520_Service Card Icon 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a57d02b4d1e494506e07582_Service Card Icon 04.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a57d02b4d1e494506e07582_Service Card Icon 04.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a57d02b5083febd382f4205_Service Card Icon 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a57d02b5083febd382f4205_Service Card Icon 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a57d02bc6d34e46011346f8_Service Card Icon 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a57d02bc6d34e46011346f8_Service Card Icon 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58011146dd6caec43ce50e_Solutions Image.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58011146dd6caec43ce50e_Solutions Image.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58af0c5902cc9755c138a6_Testimonial Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58af0c5902cc9755c138a6_Testimonial Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58af0c5902cc9755c138a6_Testimonial Image 01-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58af0c5902cc9755c138a6_Testimonial Image 01-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58af0c5902cc9755c138a6_Testimonial Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58af0c5902cc9755c138a6_Testimonial Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58ede27b9d28d69596e455_Testimonial BG 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58ede27b9d28d69596e455_Testimonial BG 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58f5d018be83337cf98628_Testimonial BG 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58f5d018be83337cf98628_Testimonial BG 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58f5d12b534f9c2a029822_Testimonial BG 04.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58f5d12b534f9c2a029822_Testimonial BG 04.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a58f5d1dccbb87384683fda_Testimonial BG 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a58f5d1dccbb87384683fda_Testimonial BG 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5902396f3a90d9e6427e6b_Lets Icon.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5902396f3a90d9e6427e6b_Lets Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a591be043d43f036f1a9ce3_Frame.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a591be043d43f036f1a9ce3_Frame.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a599aa2471052dd467d5df9_Group 52.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a599aa2471052dd467d5df9_Group 52.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5b2fda495c001d055e5c24_Advantage Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5b2fda495c001d055e5c24_Advantage Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5b2fdaa9941b7004175aad_Advantage Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5b2fdaa9941b7004175aad_Advantage Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5b2fdaab67c490e78b2ad7_Advantage Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5b2fdaab67c490e78b2ad7_Advantage Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5b2fdac205a9c8431219e6_Advantage Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5b2fdac205a9c8431219e6_Advantage Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5bba4b70221493cae9f7e4_Arrow Icon 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5bba4b70221493cae9f7e4_Arrow Icon 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5bba4bb6f34e9b9865100e_Arrow Icon 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5bba4bb6f34e9b9865100e_Arrow Icon 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e22bd298641d40301ad25_Social Icon 03.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e22bd298641d40301ad25_Social Icon 03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e22bd9a97109aa0c87cc9_Social Icon 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e22bd9a97109aa0c87cc9_Social Icon 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e22bde47bf852cacd0213_Social Icon 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e22bde47bf852cacd0213_Social Icon 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e454356576e4ece463e07_Fav.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e454356576e4ece463e07_Fav.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e4543d612d27a89d2baf4_Fav.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e4543d612d27a89d2baf4_Fav.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e454b9dd8a1a704ebbbed_Web Clip.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e454b9dd8a1a704ebbbed_Web Clip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e454be44abd7b5dc5e955_Web Clip.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e454be44abd7b5dc5e955_Web Clip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e454bedb5a6b40c0c0bfb_Web Clip.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e454bedb5a6b40c0c0bfb_Web Clip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e5d9e39bdcf936db8a608_Corelix™.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e5d9e39bdcf936db8a608_Corelix™.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e66ab30d0b11ff485f34f_14405c05de204aa2f83480809a724041_Hamburger 01 (1).svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e66ab30d0b11ff485f34f_14405c05de204aa2f83480809a724041_Hamburger 01 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e66abfea0c01093ce1492_697df74373e8f32be09207bccd847a0d_Hamburger 02 (1).svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e66abfea0c01093ce1492_697df74373e8f32be09207bccd847a0d_Hamburger 02 (1).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e679b7957638332242742_Testimonial Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e679b7957638332242742_Testimonial Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e679b7957638332242742_Testimonial Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e679b7957638332242742_Testimonial Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e679bfea0c01093ceb560_Testimonial Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e679bfea0c01093ceb560_Testimonial Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e679bfea0c01093ceb560_Testimonial Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e679bfea0c01093ceb560_Testimonial Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e679c0ce44709edd38f32_Testimonial Image 03-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e679c0ce44709edd38f32_Testimonial Image 03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5e679c0ce44709edd38f32_Testimonial Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5e679c0ce44709edd38f32_Testimonial Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5f013b22948663e2f18e32_Menu 01.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5f013b22948663e2f18e32_Menu 01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a5f013b84fb536d0e89b585_Menu 02.svg
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a5f013b84fb536d0e89b585_Menu 02.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/6a6dff9a9899a5d62a00c466_Group 53.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\6a6dff9a9899a5d62a00c466_Group 53.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/css/corelix.webflow.shared.e8c4f7f0e.css
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\css\corelix.webflow.shared.e8c4f7f0e.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.9a95af5c.ed12f6f19552678c.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.9a95af5c.ed12f6f19552678c.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.eb4b1a8b.f8c0568296155e8a.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.eb4b1a8b.f8c0568296155e8a.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.f1fa8135.9e83816ae88c7ca0.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.f1fa8135.9e83816ae88c7ca0.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.f5ae459a.14b7f1904be05d7e.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.f5ae459a.14b7f1904be05d7e.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.schunk.39b583d8f7fa071d.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.schunk.39b583d8f7fa071d.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.schunk.4fc31f81b33965ef.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.schunk.4fc31f81b33965ef.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a515c956dc8efba8ea75c77/js/webflow.schunk.7b3f3277091aec67.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a515c956dc8efba8ea75c77\js\webflow.schunk.7b3f3277091aec67.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406a4e28d5eb837c7614_Blog Image 08-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406a4e28d5eb837c7614_Blog Image 08-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406a4e28d5eb837c7614_Blog Image 08-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406a4e28d5eb837c7614_Blog Image 08-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406a4e28d5eb837c7614_Blog Image 08.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406a4e28d5eb837c7614_Blog Image 08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406d265d1f182a41f47c_Blog Banne Image 08-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406d265d1f182a41f47c_Blog Banne Image 08-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406d265d1f182a41f47c_Blog Banne Image 08-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406d265d1f182a41f47c_Blog Banne Image 08-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406d265d1f182a41f47c_Blog Banne Image 08-p-2000.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406d265d1f182a41f47c_Blog Banne Image 08-p-2000.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406d265d1f182a41f47c_Blog Banne Image 08-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406d265d1f182a41f47c_Blog Banne Image 08-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406d265d1f182a41f47c_Blog Banne Image 08-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406d265d1f182a41f47c_Blog Banne Image 08-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406d265d1f182a41f47c_Blog Banne Image 08.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406d265d1f182a41f47c_Blog Banne Image 08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55406fc21902a5a68c552e_Blog Author Image (1).avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55406fc21902a5a68c552e_Blog Author Image (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541b88ddd8b46907c0e23_Blog Image 07-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541b88ddd8b46907c0e23_Blog Image 07-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541b88ddd8b46907c0e23_Blog Image 07-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541b88ddd8b46907c0e23_Blog Image 07-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541b88ddd8b46907c0e23_Blog Image 07.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541b88ddd8b46907c0e23_Blog Image 07.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-2000.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-2000.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541bc256929bfb29bdd1c_Blog Banne Image 07-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541bc256929bfb29bdd1c_Blog Banne Image 07.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541bc256929bfb29bdd1c_Blog Banne Image 07.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541ec5d2b7b22e0ebe298_Blog Image 06-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541ec5d2b7b22e0ebe298_Blog Image 06-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541ec5d2b7b22e0ebe298_Blog Image 06-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541ec5d2b7b22e0ebe298_Blog Image 06-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541ec5d2b7b22e0ebe298_Blog Image 06.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541ec5d2b7b22e0ebe298_Blog Image 06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-2000.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-2000.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5541f0c6b8089d2b3c3bf2_Blog Banne Image 06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554207954fb37da93630d7_Blog Image 05-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554207954fb37da93630d7_Blog Image 05-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554207954fb37da93630d7_Blog Image 05-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554207954fb37da93630d7_Blog Image 05-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554207954fb37da93630d7_Blog Image 05.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554207954fb37da93630d7_Blog Image 05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55420a256929bfb29bfce0_Blog Banne Image 05-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55420a256929bfb29bfce0_Blog Banne Image 05-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55420a256929bfb29bfce0_Blog Banne Image 05-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55420a256929bfb29bfce0_Blog Banne Image 05-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55420a256929bfb29bfce0_Blog Banne Image 05-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55420a256929bfb29bfce0_Blog Banne Image 05-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55420a256929bfb29bfce0_Blog Banne Image 05-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55420a256929bfb29bfce0_Blog Banne Image 05-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55420a256929bfb29bfce0_Blog Banne Image 05.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55420a256929bfb29bfce0_Blog Banne Image 05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421642696b13e0060c8f_Blog Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421642696b13e0060c8f_Blog Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421642696b13e0060c8f_Blog Image 04-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421642696b13e0060c8f_Blog Image 04-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421642696b13e0060c8f_Blog Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421642696b13e0060c8f_Blog Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421a954fb37da93639b8_Blog Banne Image 04-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421a954fb37da93639b8_Blog Banne Image 04-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421a954fb37da93639b8_Blog Banne Image 04-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421a954fb37da93639b8_Blog Banne Image 04-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421a954fb37da93639b8_Blog Banne Image 04-p-2000.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421a954fb37da93639b8_Blog Banne Image 04-p-2000.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421a954fb37da93639b8_Blog Banne Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421a954fb37da93639b8_Blog Banne Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421a954fb37da93639b8_Blog Banne Image 04-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421a954fb37da93639b8_Blog Banne Image 04-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55421a954fb37da93639b8_Blog Banne Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55421a954fb37da93639b8_Blog Banne Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554231958c8abc862e9e4f_Blog Image 03-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554231958c8abc862e9e4f_Blog Image 03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554231958c8abc862e9e4f_Blog Image 03-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554231958c8abc862e9e4f_Blog Image 03-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554231958c8abc862e9e4f_Blog Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554231958c8abc862e9e4f_Blog Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554246be47a491313b9637_Blog Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554246be47a491313b9637_Blog Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554246be47a491313b9637_Blog Image 02-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554246be47a491313b9637_Blog Image 02-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554246be47a491313b9637_Blog Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554246be47a491313b9637_Blog Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55424966e36a01238cd392_Blog Banne Image 02-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55424966e36a01238cd392_Blog Banne Image 02-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55424966e36a01238cd392_Blog Banne Image 02-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55424966e36a01238cd392_Blog Banne Image 02-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55424966e36a01238cd392_Blog Banne Image 02-p-2000.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55424966e36a01238cd392_Blog Banne Image 02-p-2000.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55424966e36a01238cd392_Blog Banne Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55424966e36a01238cd392_Blog Banne Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55424966e36a01238cd392_Blog Banne Image 02-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55424966e36a01238cd392_Blog Banne Image 02-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55424966e36a01238cd392_Blog Banne Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55424966e36a01238cd392_Blog Banne Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554257cd0003a39ca41d0a_Blog Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554257cd0003a39ca41d0a_Blog Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554257cd0003a39ca41d0a_Blog Image 01-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554257cd0003a39ca41d0a_Blog Image 01-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554257cd0003a39ca41d0a_Blog Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554257cd0003a39ca41d0a_Blog Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55425a22b6cca33a1f462c_Blog Banne Image 01-p-500.png
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55425a22b6cca33a1f462c_Blog Banne Image 01-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a55425a22b6cca33a1f462c_Blog Banne Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a55425a22b6cca33a1f462c_Blog Banne Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1)-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1)-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1)-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1)-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1)-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1)-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1).avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a5542b1f955ae9ff9bfe9de_Blog Banne Image 03 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dcc28b409059fd19151_Case Banner Image 02-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dcc28b409059fd19151_Case Banner Image 02-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dcc28b409059fd19151_Case Banner Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dcc28b409059fd19151_Case Banner Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dcc28b409059fd19151_Case Banner Image 02-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dcc28b409059fd19151_Case Banner Image 02-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dcc28b409059fd19151_Case Banner Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dcc28b409059fd19151_Case Banner Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dd8f749fe9f40b9a3c2_Case Banner Image 09-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dd8f749fe9f40b9a3c2_Case Banner Image 09-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dd8f749fe9f40b9a3c2_Case Banner Image 09-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dd8f749fe9f40b9a3c2_Case Banner Image 09-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dd8f749fe9f40b9a3c2_Case Banner Image 09-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dd8f749fe9f40b9a3c2_Case Banner Image 09-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554dd8f749fe9f40b9a3c2_Case Banner Image 09.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554dd8f749fe9f40b9a3c2_Case Banner Image 09.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554de3ffc3b2b3929384d7_Case Image 09-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554de3ffc3b2b3929384d7_Case Image 09-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554de3ffc3b2b3929384d7_Case Image 09-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554de3ffc3b2b3929384d7_Case Image 09-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554de3ffc3b2b3929384d7_Case Image 09-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554de3ffc3b2b3929384d7_Case Image 09-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554de3ffc3b2b3929384d7_Case Image 09.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554de3ffc3b2b3929384d7_Case Image 09.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e47bdf068fd88a1643e_Project Image 01 (2).avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e47bdf068fd88a1643e_Project Image 01 (2).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e7ece51aa0161bc1edd_Case Image 08-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e7ece51aa0161bc1edd_Case Image 08-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e7ece51aa0161bc1edd_Case Image 08-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e7ece51aa0161bc1edd_Case Image 08-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e7ece51aa0161bc1edd_Case Image 08-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e7ece51aa0161bc1edd_Case Image 08-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e7ece51aa0161bc1edd_Case Image 08.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e7ece51aa0161bc1edd_Case Image 08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e81f98b5fb198e92513_Case Banner Image 08-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e81f98b5fb198e92513_Case Banner Image 08-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e81f98b5fb198e92513_Case Banner Image 08-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e81f98b5fb198e92513_Case Banner Image 08-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e81f98b5fb198e92513_Case Banner Image 08-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e81f98b5fb198e92513_Case Banner Image 08-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e81f98b5fb198e92513_Case Banner Image 08.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e81f98b5fb198e92513_Case Banner Image 08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e8e26a1e2c11ef3185e_Case Image 07-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e8e26a1e2c11ef3185e_Case Image 07-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e8e26a1e2c11ef3185e_Case Image 07-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e8e26a1e2c11ef3185e_Case Image 07-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e8e26a1e2c11ef3185e_Case Image 07-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e8e26a1e2c11ef3185e_Case Image 07-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e8e26a1e2c11ef3185e_Case Image 07.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e8e26a1e2c11ef3185e_Case Image 07.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9157a961420f50a904_Case Banner Image 07-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9157a961420f50a904_Case Banner Image 07-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9157a961420f50a904_Case Banner Image 07-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9157a961420f50a904_Case Banner Image 07-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9157a961420f50a904_Case Banner Image 07-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9157a961420f50a904_Case Banner Image 07-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9157a961420f50a904_Case Banner Image 07.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9157a961420f50a904_Case Banner Image 07.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9fbdf068fd88a19b2a_Case Image 06-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9fbdf068fd88a19b2a_Case Image 06-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9fbdf068fd88a19b2a_Case Image 06-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9fbdf068fd88a19b2a_Case Image 06-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9fbdf068fd88a19b2a_Case Image 06-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9fbdf068fd88a19b2a_Case Image 06-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554e9fbdf068fd88a19b2a_Case Image 06.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554e9fbdf068fd88a19b2a_Case Image 06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ea2b1ceb9f9e5160de6_Case Banner Image 06-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ea2b1ceb9f9e5160de6_Case Banner Image 06-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ea2b1ceb9f9e5160de6_Case Banner Image 06-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ea2b1ceb9f9e5160de6_Case Banner Image 06-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ea2b1ceb9f9e5160de6_Case Banner Image 06-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ea2b1ceb9f9e5160de6_Case Banner Image 06-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ea2b1ceb9f9e5160de6_Case Banner Image 06.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ea2b1ceb9f9e5160de6_Case Banner Image 06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb16a06c95a925602a5_Case Image 05-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb16a06c95a925602a5_Case Image 05-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb16a06c95a925602a5_Case Image 05-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb16a06c95a925602a5_Case Image 05-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb16a06c95a925602a5_Case Image 05-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb16a06c95a925602a5_Case Image 05-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb16a06c95a925602a5_Case Image 05-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb16a06c95a925602a5_Case Image 05-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb16a06c95a925602a5_Case Image 05.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb16a06c95a925602a5_Case Image 05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb3de12a2aede69f036_Case Banner Image 05-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb3de12a2aede69f036_Case Banner Image 05-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb3de12a2aede69f036_Case Banner Image 05-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb3de12a2aede69f036_Case Banner Image 05-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb3de12a2aede69f036_Case Banner Image 05-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb3de12a2aede69f036_Case Banner Image 05-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554eb3de12a2aede69f036_Case Banner Image 05.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554eb3de12a2aede69f036_Case Banner Image 05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec127b1c9e423967b39_Case Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec127b1c9e423967b39_Case Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec127b1c9e423967b39_Case Image 04-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec127b1c9e423967b39_Case Image 04-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec127b1c9e423967b39_Case Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec127b1c9e423967b39_Case Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec4527092a3dc54c5b4_Case Banner Image 04-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec4527092a3dc54c5b4_Case Banner Image 04-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec4527092a3dc54c5b4_Case Banner Image 04-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec4527092a3dc54c5b4_Case Banner Image 04-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec4527092a3dc54c5b4_Case Banner Image 04-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec4527092a3dc54c5b4_Case Banner Image 04-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ec4527092a3dc54c5b4_Case Banner Image 04.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ec4527092a3dc54c5b4_Case Banner Image 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ed6616a2f4536424d12_Case Image 03-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ed6616a2f4536424d12_Case Image 03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ed6616a2f4536424d12_Case Image 03-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ed6616a2f4536424d12_Case Image 03-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ed6616a2f4536424d12_Case Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ed6616a2f4536424d12_Case Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554edab1ceb9f9e51632ac_Case Banner Image 03-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554edab1ceb9f9e51632ac_Case Banner Image 03-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554edab1ceb9f9e51632ac_Case Banner Image 03-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554edab1ceb9f9e51632ac_Case Banner Image 03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554edab1ceb9f9e51632ac_Case Banner Image 03-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554edab1ceb9f9e51632ac_Case Banner Image 03-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554edab1ceb9f9e51632ac_Case Banner Image 03.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554edab1ceb9f9e51632ac_Case Banner Image 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ef445d2e700733638ab_Case Image 02-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ef445d2e700733638ab_Case Image 02-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ef445d2e700733638ab_Case Image 02-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ef445d2e700733638ab_Case Image 02-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554ef445d2e700733638ab_Case Image 02.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554ef445d2e700733638ab_Case Image 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0af749fe9f40ba5a26_Case Image 01-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0af749fe9f40ba5a26_Case Image 01-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0af749fe9f40ba5a26_Case Image 01-p-1600.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0af749fe9f40ba5a26_Case Image 01-p-1600.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0af749fe9f40ba5a26_Case Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0af749fe9f40ba5a26_Case Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0af749fe9f40ba5a26_Case Image 01-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0af749fe9f40ba5a26_Case Image 01-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0af749fe9f40ba5a26_Case Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0af749fe9f40ba5a26_Case Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0cb0f0101d1ee28832_Case Banner Image 01-p-1080.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0cb0f0101d1ee28832_Case Banner Image 01-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0cb0f0101d1ee28832_Case Banner Image 01-p-500.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0cb0f0101d1ee28832_Case Banner Image 01-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0cb0f0101d1ee28832_Case Banner Image 01-p-800.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0cb0f0101d1ee28832_Case Banner Image 01-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/6a553f26cb681a8d935d19ae/6a554f0cb0f0101d1ee28832_Case Banner Image 01.avif
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\6a553f26cb681a8d935d19ae\6a554f0cb0f0101d1ee28832_Case Banner Image 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\gsap\3.15.0\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\gsap\3.15.0\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\gsap\3.15.0\SplitText.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\ajax\libs\gsap\3.12.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\ajax\libs\gsap\3.12.5\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://corelix.webflow.io/
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/401
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\401.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/404
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\404.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/about
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blog
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/building-scalable-business-strategies-growth
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\building-scalable-business-strategies-growth.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/creating-sustainable-long-term-consulting-success
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\creating-sustainable-long-term-consulting-success.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/financial-planning-for-growing-consulting-brands
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\financial-planning-for-growing-consulting-brands.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/improving-operational-efficiency-business-growth-today
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\improving-operational-efficiency-business-growth-today.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/leadership-strategies-for-modern-teams
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\leadership-strategies-for-modern-teams.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/market-trends-shaping-modern-consulting-businesses
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\market-trends-shaping-modern-consulting-businesses.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/smart-financial-planning-for-business-growth
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\smart-financial-planning-for-business-growth.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/blogs/understanding-consulting-market-opportunities
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\blogs\understanding-consulting-market-opportunities.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/accelerating-sustainable-business-growth
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\accelerating-sustainable-business-growth.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/apex-growth-consulting
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\apex-growth-consulting.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/expanding-into-new-markets
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\expanding-into-new-markets.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/lumina-fashion-partners
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\lumina-fashion-partners.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/modernizing-enterprise-operations
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\modernizing-enterprise-operations.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/scaling-businesses-with-confidence
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\scaling-businesses-with-confidence.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/strategic-consulting-helps-businesses-improve-performance
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\strategic-consulting-helps-businesses-improve-performance.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/stratos-business-solutions
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\stratos-business-solutions.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/case-studies/streamlining-business-performance
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\case-studies\streamlining-business-performance.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/changelog
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\changelog.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/contact
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/license
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\license.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/pricing
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\pricing.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/privacy
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\privacy.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/service
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\service.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/style-guide
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\style-guide.html
+Content Type: text/html
+
+Uri: https://corelix.webflow.io/terms
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\terms.html
+Content Type: text/html
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6a515c956dc8efba8ea75c77
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/gsap@3.15.1/dist/gsap.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\gsap@3.15.1\dist\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/gsap@3.15.1/dist/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\gsap@3.15.1\dist\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/lenis@1.3.1/dist/lenis.css
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\lenis@1.3.1\dist\lenis.css
+Content Type: text/css
+
+Uri: https://unpkg.com/lenis@1.3.1/dist/lenis.min.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\lenis@1.3.1\dist\lenis.min.js
+Content Type: text/javascript
+
+Uri: https://validation-worker.createsomething.workers.dev/app-validator/snippet/review.js
+File Name: C:\Downloaded Web Sites\corelix.webflow.io\app-validator\snippet\review.js
+Content Type: text/javascript
+
