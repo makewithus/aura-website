@@ -1,0 +1,5 @@
+# Domain redirects: redirect auraservice.info to auraservice.in
+https://auraservice.info/* https://auraservice.in/:splat 301!
+https://www.auraservice.info/* https://auraservice.in/:splat 301!
+http://auraservice.info/* https://auraservice.in/:splat 301!
+http://www.auraservice.info/* https://auraservice.in/:splat 301!
