@@ -7989,3 +7989,26 @@ figure {
 .copyright-text a[href="https://makewithus.in"]:hover {
   color: #c6ff00 !important;
 }
+
+/* brand logo: navbar & footer */
+.brand-image {
+  height: 32px;
+  width: auto;
+  max-width: 160px;
+  object-fit: contain;
+  display: block;
+}
+
+.footer-brand-link {
+  display: inline-block;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+
+.footer-brand-image {
+  height: 38px;
+  width: auto;
+  max-width: 180px;
+  object-fit: contain;
+  display: block;
+}
