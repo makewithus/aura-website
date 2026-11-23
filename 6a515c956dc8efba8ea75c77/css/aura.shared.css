@@ -8001,14 +8001,38 @@ figure {
 
 .footer-brand-link {
   display: inline-block;
-  margin-bottom: 14px;
+  margin-bottom: 24px;
   text-decoration: none;
 }
 
 .footer-brand-image {
-  height: 38px;
+  height: 52px;
   width: auto;
-  max-width: 180px;
+  max-width: 240px;
   object-fit: contain;
   display: block;
+}
+
+@media screen and (max-width: 479px) {
+  .footer-brand-image {
+    height: 44px;
+    max-width: 200px;
+  }
+}
+
+/* newsletter form success message in footer */
+.footer-form-block .success-message.w-form-done {
+  background-color: #c6ff00 !important;
+  color: #050505 !important;
+  border-radius: 12px;
+  padding: 14px 20px;
+  text-align: center;
+  margin-top: 14px;
+  font-weight: 600;
+  display: none;
+}
+.footer-form-block .success-message.w-form-done div {
+  color: #050505 !important;
+  font-size: 14px;
+  line-height: 1.4;
 }

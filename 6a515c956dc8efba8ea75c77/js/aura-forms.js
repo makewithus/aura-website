@@ -1,7 +1,9 @@
 /* Aura Service: Form Handling with FormSubmit AJAX & Branded Redirect
    Submits forms asynchronously to FormSubmit AJAX endpoint so the visitor
    never navigates away to a third-party domain or encounters DNS/browser errors.
-   Upon submission, smoothly redirects to the branded thanks.html page. */
+   - For newsletter/footer forms: displays inline "Successfully submitted!" UI
+     directly beneath the form without redirecting.
+   - For contact forms: smoothly redirects to the branded thanks.html page. */
 (function () {
   'use strict';
 
@@ -22,13 +24,14 @@
     if (subjectInput && subjectInput.value) {
       return subjectInput.value;
     }
-    return form.classList.contains('contact-form')
+    return form.classList.contains('contact-form') || form.id === 'email-form-2'
       ? 'New Project Enquiry - Aura Service'
       : 'New Newsletter Subscription - Aura Service';
   }
 
   function handleForm(form) {
     var thanksUrl = resolveThanksUrl();
+    var isNewsletter = form.classList.contains('footer-form') || form.id === 'email-form';
 
     // Ensure hidden fields exist for no-JS fallback
     var nextInput = form.querySelector('input[name="_next"]');
@@ -46,6 +49,7 @@
     }
 
     var wrap = form.closest('.w-form') || form.parentNode;
+    var doneEl = wrap ? wrap.querySelector('.w-form-done') : null;
     var failEl = wrap ? wrap.querySelector('.w-form-fail') : null;
     var submitBtn = form.querySelector('[type="submit"]');
 
@@ -68,6 +72,9 @@
       if (failEl) {
         failEl.style.display = 'none';
       }
+      if (doneEl) {
+        doneEl.style.display = 'none';
+      }
 
       // Collect data
       var payload = {};
@@ -76,7 +83,18 @@
         var el = elements[i];
         if (!el.name || el.type === 'submit') continue;
         if (el.name === '_honey' && el.value) {
-          // Honeypot caught spam, fake success and redirect
+          // Honeypot caught spam, fake success
+          if (isNewsletter) {
+            form.reset();
+            if (submitBtn) {
+              submitBtn.disabled = false;
+              submitBtn.value = originalBtnValue;
+            }
+            if (doneEl) {
+              doneEl.style.display = 'block';
+            }
+            return;
+          }
           window.location.href = resolveThanksUrl();
           return;
         }
@@ -109,6 +127,17 @@
         })
         .then(function (data) {
           // Both success="true" and activation-pending message mean FormSubmit accepted the submission
+          if (isNewsletter) {
+            form.reset();
+            if (submitBtn) {
+              submitBtn.disabled = false;
+              submitBtn.value = originalBtnValue;
+            }
+            if (doneEl) {
+              doneEl.style.display = 'block';
+            }
+            return;
+          }
           window.location.href = resolveThanksUrl();
         })
         .catch(function (err) {
